@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mustafaabdullahai-dev/mustafaabdullahai-dev/main/assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mustafaabdullahai-dev/mustafaabdullahai-dev/main/assets/header-light.svg">
-  <img src="https://raw.githubusercontent.com/mustafaabdullahai-dev/mustafaabdullahai-dev/main/assets/header-dark.svg" alt="Abdullah Mustafa — AI Engineer, Full-Stack Developer, AI Automation">
+  <img src="https://raw.githubusercontent.com/mustafaabdullahai-dev/mustafaabdullahai-dev/main/assets/header-dark.svg" alt="Abdullah Mustafa — GenAI & Backend Engineer, Full-Stack Developer, AI Automation">
 </picture>
 
 <br/>
