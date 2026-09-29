@@ -1,5 +1,20 @@
+<!--
+  REFERENCE PROFILE TEMPLATE
+  A reusable copy of the profile layout used in README.md.
+  The style is adapted from the GenAIwithMS profile: a theme-aware SVG header,
+  social badges, a short quote, a "how I build" pipeline, a categorized tech-stack
+  table, theme-aware GitHub stats, and an SVG footer.
+
+  To reuse this for another account:
+  1. Replace the username mustafaabdullahai-dev everywhere (asset URLs + widgets).
+  2. Swap the SVG assets in /assets for your own.
+  3. Update the badges, the quote and the three feature columns.
+  HTML comments like this one are invisible when the file is rendered.
+-->
+
 <div align="center">
 
+<!-- Theme-aware header banner. Provide a dark and a light SVG in /assets. -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mustafaabdullahai-dev/mustafaabdullahai-dev/main/assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mustafaabdullahai-dev/mustafaabdullahai-dev/main/assets/header-light.svg">
@@ -8,18 +23,22 @@
 
 <br/>
 
+<!-- Primary links. Keep these short and high-signal. -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ab-mustafa5843/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mustafaabdullahai-dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
+<!-- One-line positioning quote. Keep it specific to how you work. -->
 > *"The future belongs to those who can master the art of turning complex models into simple, working products."*  **Abdullah Mustafa**
 
 <br/>
 
 ## 🧬 How I Build AI Systems
 
+<!-- A visual pipeline. Nodes move left to right; the bottom banner states the
+     operating principle. Replace the SVG when your workflow changes. -->
 <div align="center">
 
 <picture>
@@ -32,6 +51,7 @@
 
 <br/>
 
+<!-- Three concise pillars. Each column: an emoji title + one tight paragraph. -->
 <table>
   <tr>
     <td width="33%" valign="top">
@@ -53,6 +73,8 @@
 
 ## 🛠️ Tech Stack
 
+<!-- Two-column table: category label + a row of shields.io badges.
+     Add or remove rows as your stack evolves. -->
 <table>
   <tr>
     <td><b>🧠 Agents &amp; Frameworks</b></td>
@@ -124,6 +146,8 @@
 
 ## 📊 GitHub Activity
 
+<!-- Theme-aware widgets: each <picture> swaps the dark/light colour params.
+     Any github-readme-stats compatible host works here. -->
 <div align="center">
 
 <picture>
@@ -149,6 +173,7 @@
 
 <br/>
 
+<!-- Footer banner. Match the palette of the header. -->
 <div align="center">
 
 <picture>

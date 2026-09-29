@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Pipeline: ingest, embed and retrieve, agents, ship, deploy — with automation running the same pipelines unattended">
+  <g font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+    <rect x="40" y="70" width="150" height="66" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="115" y="98" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2328">Ingest</text>
+    <text x="115" y="119" text-anchor="middle" font-size="11" fill="#57606a">Scrape &amp; Parse</text>
+
+    <rect x="230" y="70" width="150" height="66" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="305" y="98" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2328">Embed</text>
+    <text x="305" y="119" text-anchor="middle" font-size="11" fill="#57606a">FAISS &#183; Chroma</text>
+
+    <rect x="420" y="70" width="150" height="66" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="495" y="98" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2328">Agents</text>
+    <text x="495" y="119" text-anchor="middle" font-size="11" fill="#57606a">LangGraph &#183; MCP</text>
+
+    <rect x="610" y="70" width="150" height="66" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="685" y="98" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2328">Ship</text>
+    <text x="685" y="119" text-anchor="middle" font-size="11" fill="#57606a">FastAPI &#183; React</text>
+
+    <rect x="800" y="70" width="150" height="66" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+    <text x="875" y="98" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2328">Deploy</text>
+    <text x="875" y="119" text-anchor="middle" font-size="11" fill="#57606a">Docker &#183; VPS</text>
+  </g>
+
+  <g fill="#0969da">
+    <line x1="192" y1="103" x2="220" y2="103" stroke="#0969da" stroke-width="2"/>
+    <polygon points="220,98 230,103 220,108"/>
+    <line x1="382" y1="103" x2="410" y2="103" stroke="#0969da" stroke-width="2"/>
+    <polygon points="410,98 420,103 410,108"/>
+    <line x1="572" y1="103" x2="600" y2="103" stroke="#0969da" stroke-width="2"/>
+    <polygon points="600,98 610,103 600,108"/>
+    <line x1="762" y1="103" x2="790" y2="103" stroke="#0969da" stroke-width="2"/>
+    <polygon points="790,98 800,103 790,108"/>
+  </g>
+
+  <rect x="40" y="186" width="910" height="74" rx="12" fill="#eaf7f0" stroke="#9be3c4"/>
+  <g font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+    <text x="495" y="216" text-anchor="middle" font-size="15" font-weight="700" fill="#0a7a55">Automation as the default</text>
+    <text x="495" y="239" text-anchor="middle" font-size="12" fill="#0f6b4a">The same pipelines run unattended on a schedule via n8n workflows and workers.</text>
+  </g>
+</svg>

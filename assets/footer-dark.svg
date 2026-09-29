@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-label="exit 0 — thanks for stopping by">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1200" y2="110" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#10251d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="110" fill="url(#fbg)"/>
+  <rect x="0" y="0" width="1200" height="2" fill="#1f6f52"/>
+  <text x="600" y="50" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="16" fill="#5ee6b0">$ exit 0</text>
+  <text x="600" y="78" text-anchor="middle" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="14" fill="#8b949e">thanks for stopping by</text>
+</svg>

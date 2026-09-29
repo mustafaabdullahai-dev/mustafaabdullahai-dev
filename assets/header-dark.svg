@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Abdullah Mustafa — AI Engineer, Full-Stack Developer, AI Automation">
+  <defs>
+    <linearGradient id="hbg" x1="0" y1="0" x2="1200" y2="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="0.55" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#10251d"/>
+    </linearGradient>
+    <linearGradient id="haccent" x1="120" y1="0" x2="820" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5ee6b0"/>
+      <stop offset="1" stop-color="#79c0ff"/>
+    </linearGradient>
+    <filter id="hblur" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="60"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="240" fill="url(#hbg)"/>
+  <circle cx="1010" cy="30" r="150" fill="#5ee6b0" opacity="0.20" filter="url(#hblur)"/>
+  <circle cx="1160" cy="220" r="130" fill="#79c0ff" opacity="0.18" filter="url(#hblur)"/>
+  <rect x="80" y="52" width="6" height="60" rx="3" fill="url(#haccent)"/>
+  <text x="104" y="100" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="58" font-weight="800" fill="#ffffff">Abdullah Mustafa</text>
+  <text x="106" y="146" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="24" font-weight="600" fill="url(#haccent)">AI Engineer &#183; Full-Stack Developer &#183; AI Automation</text>
+  <text x="106" y="182" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="15" fill="#8b949e">@mustafaabdullahai-dev</text>
+</svg>
