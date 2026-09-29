@@ -151,14 +151,14 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mustafaabdullahai-dev&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=5ee6b0&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mustafaabdullahai-dev&include_all_commits=true&count_private=true&show_icons=true&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=8250df&border_color=d0d7de">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mustafaabdullahai-dev&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=5ee6b0&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d" alt="GitHub stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-theta-rust-54.vercel.app/api?username=mustafaabdullahai-dev&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=5ee6b0&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-theta-rust-54.vercel.app/api?username=mustafaabdullahai-dev&include_all_commits=true&count_private=true&show_icons=true&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=8250df&border_color=d0d7de">
+  <img height="170" src="https://github-readme-stats-theta-rust-54.vercel.app/api?username=mustafaabdullahai-dev&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=5ee6b0&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d" alt="GitHub stats">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaabdullahai-dev&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=5ee6b0&text_color=c9d1d9&border_color=30363d">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaabdullahai-dev&include_all_commits=true&count_private=true&layout=compact&bg_color=ffffff&title_color=0969da&text_color=24292f&border_color=d0d7de">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaabdullahai-dev&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=5ee6b0&text_color=c9d1d9&border_color=30363d" alt="Top languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-theta-rust-54.vercel.app/api/top-langs/?username=mustafaabdullahai-dev&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=5ee6b0&text_color=c9d1d9&border_color=30363d">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-theta-rust-54.vercel.app/api/top-langs/?username=mustafaabdullahai-dev&include_all_commits=true&count_private=true&layout=compact&bg_color=ffffff&title_color=0969da&text_color=24292f&border_color=d0d7de">
+  <img height="170" src="https://github-readme-stats-theta-rust-54.vercel.app/api/top-langs/?username=mustafaabdullahai-dev&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=5ee6b0&text_color=c9d1d9&border_color=30363d" alt="Top languages">
 </picture>
 
 <br/>
